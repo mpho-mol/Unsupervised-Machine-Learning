@@ -1,1 +1,1 @@
-# Unsupervised-Machine-Learning
+The task was completed in Jupyter Notebook using the data set UsArrests.csv. The data consists of statistics of arrests per 100 000 residents in each American state for assault, murder and rape. In order to create an in-depth PCA report of the data, the necessary pre-processing tools were used and the outcomes of the analyses were interpreted. An application of two clustering techniques and an analysis of the clusters were generated.
